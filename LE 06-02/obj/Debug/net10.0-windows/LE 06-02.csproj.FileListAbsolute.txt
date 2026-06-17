@@ -1,0 +1,20 @@
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\bin\Debug\net10.0-windows\LE 06-02.exe
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\bin\Debug\net10.0-windows\LE 06-02.deps.json
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\bin\Debug\net10.0-windows\LE 06-02.runtimeconfig.json
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\bin\Debug\net10.0-windows\LE 06-02.dll
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\bin\Debug\net10.0-windows\LE 06-02.pdb
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02_MarkupCompile.cache
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02_MarkupCompile.lref
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02.g.resources
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02.AssemblyInfoInputs.cache
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02.AssemblyInfo.cs
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02.csproj.CoreCompileInputs.cache
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02.dll
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\refint\LE 06-02.dll
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02.pdb
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\LE 06-02.genruntimeconfig.cache
+C:\Users\054057\RiderProjects\LE 06-02\LE 06-02\obj\Debug\net10.0-windows\ref\LE 06-02.dll
