@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="Employee Manager 2000" Height="600" Width="800" WindowStartupLocation="CenterScreen">
     <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="C:/Users/054057/Desktop/all/background_0.png"></ImageBrush>
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
@@ -20,10 +23,10 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         
-        <Label Grid.Row="0" Grid.Column="0" Content="Notiz Titel" VerticalAlignment="Center" Margin="5,5,10,5" Padding="3"></Label>
+        <Label Grid.Row="0" Grid.Column="0" Content="Notiz Titel" VerticalAlignment="Center" Foreground="AliceBlue" Margin="5,5,10,5" Padding="3"></Label>
         <TextBox Grid.Row="0" Grid.Column="1" x:Name="TxtNoteTitle" VerticalAlignment="Center" Margin="0,5,5,5" Padding="3"></TextBox>
 
-        <Label Grid.Row="1" Grid.Column="0" Content="Notiz" VerticalAlignment="Center" Margin="5,5,10,5"></Label>
+        <Label Grid.Row="1" Grid.Column="0" Content="Notiz" Foreground="AliceBlue" VerticalAlignment="Center" Margin="5,5,10,5"></Label>
         <TextBox Grid.Row="1" Grid.Column="1" x:Name="TxtNote" VerticalAlignment="Center" Margin="0,5,5,5" Padding="3"></TextBox>
         
         <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" 
@@ -31,13 +34,14 @@
                 VerticalAlignment="Center" HorizontalAlignment="Center" 
                 Padding="10,5,10,5" Click="BtnCreateNote_Click"></Button>
 
-        <Label Grid.Row="3" Grid.Column="0" Content="Gespeicherte Notizen" VerticalAlignment="Top" Margin="5,5,10,5"></Label>
-        <ListBox Grid.Row="3" Grid.Column="1" x:Name="ListNotes" Margin="0,5,5,5" DisplayMemberPath="DisplayProperty"></ListBox>
+        <Label Grid.Row="3" Grid.Column="0" Content="Gespeicherte Notizen" Foreground="AliceBlue" VerticalAlignment="Top" Margin="5,5,10,5"></Label>
+        <ListBox Grid.Row="3" Grid.Column="1" x:Name="ListNotes" Margin="0,5,5,5"
+                Background="Transparent" Foreground="AliceBlue" DisplayMemberPath="DisplayProperty"></ListBox>
 
         <Button Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" 
                 x:Name="BtnDeleteNote" Content="Ausgewählte Notiz löschen" Margin="0,10,0,10" 
                 VerticalAlignment="Center" HorizontalAlignment="Center" 
-                Padding="10,5,10,5" Click="BtnDeleteNote_Click"></Button>
+                Padding="10,5,10,5" Foreground="AliceBlue" Click="BtnDeleteNote_Click" Background="Transparent"></Button>
         
         <TextBlock x:Name="TxtBlockOutput" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" TextWrapping="Wrap" 
                    FontSize="14" FontWeight="Bold" Margin="5,10,5,5"/>
